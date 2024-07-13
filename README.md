@@ -3,11 +3,12 @@
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeldevjvr&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldevjvr&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <hr>
 </div>
-<hr>
 <div  align="center"> 
   <br>
   <div style="display: inline_block"><br>
+    <br>
     <img align="center" height="250" alt="coding-time" src="code.gif">
     <br>
      <h1 align="center">Tecnologias <3</h1> 
