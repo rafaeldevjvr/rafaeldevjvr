@@ -1,8 +1,10 @@
 ## Hello World dev, Rafael Aqui!
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeldevjvr&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-  <img align="right" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldevjvr&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=rafaeldevjvr&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+  <hr>
+  <br>
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldevjvr&layout=compact&langs_count=16&theme=great-gatsby"/>
   <hr>
   <br>
 </div>
