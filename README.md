@@ -24,9 +24,6 @@
     <a href = "https://www.linkedin.com/in/rafael-rosa-369676280/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
-    </a>
     <a href = "https://www.instagram.com/rafhael_dev/">
       <img width="25" src="instagram.png">
     </a>
