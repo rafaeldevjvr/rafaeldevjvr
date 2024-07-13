@@ -4,6 +4,8 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeldevjvr&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldevjvr&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
+<br>
+<br>
 <hr>
 <div  align="center"> 
   <div style="display: inline_block"><br>
