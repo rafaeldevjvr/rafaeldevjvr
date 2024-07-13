@@ -7,6 +7,7 @@
 </div>
 <div  align="center"> 
   <div style="display: inline_block"><br>
+    <br>
     <img align="center" height="250" alt="coding-time" src="code.gif">
     <br>
     <br>
@@ -28,5 +29,5 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
-br
-br
+<br>
+<br>
