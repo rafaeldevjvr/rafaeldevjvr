@@ -5,11 +5,10 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeldevjvr&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldevjvr&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
+<br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <br>
     <img align="center" height="250" alt="coding-time" src="code.gif">
-    <br>
     <br>
      <h1 align="center">Tecnologias <3</h1> 
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
